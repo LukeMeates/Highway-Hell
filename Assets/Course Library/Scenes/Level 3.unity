@@ -925,7 +925,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1075793935322277026, guid: 7e12af988c4e05d4ea6bc8a45f14132a, type: 3}
       propertyPath: iLevelToLoad
-      value: 1
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1075793935322277026, guid: 7e12af988c4e05d4ea6bc8a45f14132a, type: 3}
       propertyPath: useIntToLoadLevel
